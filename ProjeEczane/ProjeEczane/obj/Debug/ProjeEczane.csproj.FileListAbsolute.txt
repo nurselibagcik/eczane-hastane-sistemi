@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\bin\Debug\ProjeEczane.exe.config
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\bin\Debug\ProjeEczane.exe
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\bin\Debug\ProjeEczane.pdb
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.Form1.resources
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.HastaGirisEkrani.resources
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.Properties.Resources.resources
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.exe
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.pdb
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.DoktorGirisEkrani.resources
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.HastaEklemeForm.resources
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.DoktorReceteGuncelle.resources
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.ilacEkleSil.resources
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.UreticiGirisEkrani.resources
+C:\Users\HP\source\repos\ProjeEczane\ProjeEczane\obj\Debug\ProjeEczane.EczaciGirisEkrani.resources
